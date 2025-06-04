@@ -1,0 +1,1 @@
+Solidity smart contract simulating a simple bank account. It allows users to deposit, withdraw, and transfer funds securely on the Ethereum blockchain. Additionally, the contract owner can view the balance of any user.
